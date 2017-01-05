@@ -1,0 +1,92 @@
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\bin\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\bin\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+E:\faculty of computer scince year 3\[ALG'16] Lab7\project release\[1] image quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+E:\faculty of computer scince year 3\[ALG'16] Lab7\project release\[1] image quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+E:\faculty of computer scince year 3\[ALG'16] Lab7\project release\[1] image quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+E:\faculty of computer scince year 3\[ALG'16] Lab7\project release\[1] image quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+E:\faculty of computer scince year 3\[ALG'16] Lab7\project release\[1] image quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+E:\faculty of computer scince year 3\[ALG'16] Lab7\project release\[1] image quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+E:\faculty of computer scince year 3\[ALG'16] Lab7\project release\[1] image quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+E:\faculty of computer scince year 3\[ALG'16] Lab7\project release\[1] image quantization\Startup Code\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SoOM3a\Downloads\Projects and Midterms\[1] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SoOM3a\Downloads\Projects and Midterms\[1] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SoOM3a\Downloads\Projects and Midterms\[1] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SoOM3a\Downloads\Projects and Midterms\[1] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SoOM3a\Downloads\Projects and Midterms\[1] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SoOM3a\Downloads\Projects and Midterms\[1] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SoOM3a\Downloads\Projects and Midterms\[1] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SoOM3a\Downloads\Projects and Midterms\[1] Image Quantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Histogram.resources
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.ShowPallete.resources
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Pallete.ShowColor.resources
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SoOM3a\Dropbox\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.exe
+C:\Users\SoOM3a\Dropbox\[TEMPLATE] ImageQuantization\ImageQuantization\bin\Debug\ImageQuantization.pdb
+C:\Users\SoOM3a\Dropbox\Desktop\Image Quantizer Tool\ImageQuantization.exe.manifest
+C:\Users\SoOM3a\Dropbox\Desktop\Image Quantizer Tool\ImageQuantization.application
+C:\Users\SoOM3a\Dropbox\Desktop\Image Quantizer Tool\ImageQuantization.exe
+C:\Users\SoOM3a\Dropbox\Desktop\Image Quantizer Tool\ImageQuantization.pdb
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.TrustInfo.xml
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe.manifest
+C:\Users\SoOM3a\Dropbox\[1] ImageQuantization\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.application
+C:\Users\SoOM3a\Dropbox\EL taslim\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SoOM3a\Dropbox\EL taslim\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SoOM3a\Dropbox\EL taslim\ImageQuantization\obj\Debug\ImageQuantization.Histogram.resources
+C:\Users\SoOM3a\Dropbox\EL taslim\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SoOM3a\Dropbox\EL taslim\ImageQuantization\obj\Debug\ImageQuantization.ShowPallete.resources
+C:\Users\SoOM3a\Dropbox\EL taslim\ImageQuantization\obj\Debug\ImageQuantization.Pallete.ShowColor.resources
+C:\Users\SoOM3a\Dropbox\EL taslim\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SoOM3a\Dropbox\EL taslim\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SoOM3a\Dropbox\EL taslim\ImageQuantization\obj\Debug\ImageQuantization.TrustInfo.xml
+C:\Users\SoOM3a\Dropbox\EL taslim\ImageQuantization\obj\Debug\ImageQuantization.exe.manifest
+C:\Users\SoOM3a\Dropbox\EL taslim\ImageQuantization\obj\Debug\ImageQuantization.application
+C:\Users\SoOM3a\Desktop\Image Quantizer Tool\ImageQuantization.exe.manifest
+C:\Users\SoOM3a\Desktop\Image Quantizer Tool\ImageQuantization.application
+C:\Users\SoOM3a\Desktop\Image Quantizer Tool\ImageQuantization.exe
+C:\Users\SoOM3a\Desktop\Image Quantizer Tool\ImageQuantization.pdb
+C:\Users\SoOM3a\Dropbox\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Histogram.resources
+C:\Users\SoOM3a\Dropbox\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SoOM3a\Dropbox\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.ShowPallete.resources
+C:\Users\SoOM3a\Dropbox\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Pallete.ShowColor.resources
+C:\Users\SoOM3a\Dropbox\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SoOM3a\Dropbox\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SoOM3a\Dropbox\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.TrustInfo.xml
+C:\Users\SoOM3a\Dropbox\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe.manifest
+C:\Users\SoOM3a\Dropbox\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.application
+C:\Users\SoOM3a\Dropbox\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SoOM3a\Dropbox\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SoOM3a\Dropbox\[TEMPLATE] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SoOM3a\Dropbox\Image Quantization Project\[Source Code] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe
+C:\Users\SoOM3a\Dropbox\Image Quantization Project\[Source Code] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.pdb
+C:\Users\SoOM3a\Dropbox\Image Quantization Project\[Source Code] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\SoOM3a\Dropbox\Image Quantization Project\[Source Code] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Histogram.resources
+C:\Users\SoOM3a\Dropbox\Image Quantization Project\[Source Code] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.MainForm.resources
+C:\Users\SoOM3a\Dropbox\Image Quantization Project\[Source Code] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.ShowPallete.resources
+C:\Users\SoOM3a\Dropbox\Image Quantization Project\[Source Code] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Pallete.ShowColor.resources
+C:\Users\SoOM3a\Dropbox\Image Quantization Project\[Source Code] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.Properties.Resources.resources
+C:\Users\SoOM3a\Dropbox\Image Quantization Project\[Source Code] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\SoOM3a\Dropbox\Image Quantization Project\[Source Code] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.TrustInfo.xml
+C:\Users\SoOM3a\Dropbox\Image Quantization Project\[Source Code] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.exe.manifest
+C:\Users\SoOM3a\Dropbox\Image Quantization Project\[Source Code] ImageQuantization\ImageQuantization\obj\Debug\ImageQuantization.application

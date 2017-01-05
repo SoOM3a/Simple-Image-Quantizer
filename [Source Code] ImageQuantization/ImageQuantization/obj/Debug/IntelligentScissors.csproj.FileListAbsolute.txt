@@ -1,0 +1,9 @@
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.exe
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\bin\Debug\IntelligentScissors.pdb
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.Properties.Resources.resources
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.csproj.GenerateResource.Cache
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
+C:\Users\Ah\Dropbox\[ALG'15] Materials\---- Staff only ----\Projects\Intelligent Scissors\[TEMPLATE] IntelligentScissors\IntelligentScissors\obj\Debug\IntelligentScissors.MainForm.resources
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\IntelligentScissors.exe
+C:\Users\Dell\Desktop\[ALG'16] Lab7 [PROJECT]\PROJECT RELEASE\Startup Codes\Image Quantization Startup Code\[TEMPLATE] ImageQuantization\IntelligentScissors\obj\Debug\IntelligentScissors.pdb
